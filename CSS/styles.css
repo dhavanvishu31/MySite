@@ -80,11 +80,15 @@ a:hover{
     position: absolute;
     right: 300px;
     top: 40px;
+     width: auto;
+    height: auto;
  }
 .bottom-cloud{
     position: absolute;
     left: 250px;
     bottom: 300px;
+    width: auto;
+    height: auto;
 }
 .Skill-1{
   width: 25%;
