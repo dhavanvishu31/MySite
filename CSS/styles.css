@@ -90,6 +90,10 @@ a:hover{
     width: auto;
     height: auto;
 }
+img
+{
+    width:50%;
+}
 .Skill-1{
   width: 25%;
   float: left;
